@@ -1,0 +1,173 @@
+.sec
+{
+	background-image: url("st.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 100vh;
+	position: relative;
+	
+}
+
+.di
+{
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%);
+  margin-top:150px;
+}
+h1
+{
+	position: relative;
+	letter-spacing: 3px;
+	word-spacing: 10px;
+	color:fuchsia;
+	font-family: 'Sedgwick Ave Display', cursive;
+font-family: 'Berkshire Swash', cursive;
+font-size: 35px;
+margin-left:20px;
+}
+p
+{
+	position: relative;
+	color:lime ;
+	font-size: 25px;
+	font-family: 'Sedgwick Ave Display', cursive;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Pacifico', cursive;
+letter-spacing: 3px;
+
+	}
+	.di h1
+	{
+		text-align: center;
+	}	
+	.fr
+	{
+		text-align: center;
+	}
+	.fr .in
+	{
+		display: block;
+		width:75%;
+		margin-left: auto;
+		margin-right: auto;
+		border-radius:3rem; 
+		padding:  30px;
+		outline: none;
+		text-align: center;
+		border: none;
+	}
+	 .fr button
+	{
+		width:25%;
+		background-color: green;
+		border-radius: 2rem;
+		outline: none;
+		border: none;
+		margin-top: 2rem;
+	}
+
+.sec2
+{
+		
+		margin-left:auto;
+		margin-right:auto;
+		
+
+}
+
+ .di2 ,.di3,.di4, .di5,.di6,.di7
+{
+	float: left;
+	width:33.33%;
+background-color:crimson;
+
+}
+.i1 ,.im1 ,.im2,.im3,.im4, .im5
+{
+	height: 300px;
+	width: 300px;
+}
+.fr1 button
+{
+	border: none;
+	outline: none;
+	border-radius: 3rem;
+	background-color: green;
+	text-align: center;
+
+		
+
+	
+}
+
+ul
+{
+   margin:0px;
+   padding: 0px;
+   list-style: none;
+   
+}
+ul li
+{
+	float:left;
+	width: 269.81px;
+	height: 27px;
+	background-color: red;
+	text-align: center;
+	font-size: 26px;
+	
+
+}
+ul li a
+{
+	color: white;
+	text-decoration: none;
+	display: block;
+}
+ul li ul li
+{
+	opacity: .8;
+	color: white;
+	display: none;
+	
+
+}
+ul li a:hover
+{
+	background-color: black;
+	
+
+}
+ul li ul li:hover
+{
+	background-color: black;
+}
+ul li:hover  ul li 
+{
+	display: block;
+}
+
+footer
+{background-color: fuchsia;
+   color: white;
+   }
+   .di9 a img
+{
+	height: 35px;
+	width: 35px; 
+	padding: 2px;
+
+}
+.di8
+{
+	float: left;
+}
+.di9 a img:hover
+{
+		background-color: red;
+}
+.i1,.im1,.im2, .im3,.im4,.im5
+{
+	border: 3px solid blue;
+} 

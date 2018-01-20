@@ -1,0 +1,23 @@
+body
+{
+	background-image: url("fdb1.jpg");
+	background-repeat:no-repeat;
+	height: 100vh;
+	background-size: cover;
+	
+	
+}
+
+td
+{
+	font-size: 30px;
+	}	
+.td1
+{
+	color: red;
+	font-size:40px;
+}
+table tr
+{
+	color: blue;
+}
